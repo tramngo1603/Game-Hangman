@@ -3,7 +3,7 @@
 
 <b>Technologies</b> used to build this project: Javascript, HTML, and CSS.
 
-Below is the final image of the project. 
+Below is the final GIF of the project. 
 
 <br>
 
