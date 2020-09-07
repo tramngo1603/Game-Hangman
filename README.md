@@ -5,6 +5,8 @@
 
 Below is the final image of the project. 
 
+<br>
+
 <p align="center">
-  <img style="width:700;height:250px;" src="./final-image.PNG"/>
+  <img style="width:auto;height:250px;" src="./assets/hangman-gif.gif"/>
  </p>
